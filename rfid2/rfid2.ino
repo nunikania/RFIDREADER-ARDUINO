@@ -1,4 +1,3 @@
-// created by: Nuni, 2 Januari 2017
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(2, 3); // RX, TX
